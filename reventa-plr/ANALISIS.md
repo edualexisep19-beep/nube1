@@ -107,7 +107,11 @@ La traducción es **una obra derivada**. La mayoría de licencias PLR la permite
 | Payhip | 0 €/mes + 5% |
 | **Total primer producto** | **80–200 €** |
 
-Con precio de 12 € y 5% de comisión: ~11,4 € netos por venta. **Punto de equilibrio: 8–18 ventas.**
+Con precio de 12 € en Payhip gratuito (5% + procesamiento de pago): **≈10,75 € netos por venta**
+→ punto de equilibrio en **14 ventas** si el arranque costó 150 €. Rango realista: **8–18 ventas**.
+
+> Versión web consultable desde el móvil, con comparador de margen por canal:
+> https://claude.ai/artifact/SzKp2fQHfxLkRJx9CZ6c2Y
 
 ---
 

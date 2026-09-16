@@ -14,6 +14,8 @@
 - Scaffold `productos/_plantilla/` para cada ebook en curso.
 - **`ANALISIS.md`**: análisis de mercado con datos verificados (proveedores y precios reales,
   políticas de KDP/Etsy/Payhip/Gumroad, nichos, números de arranque).
+- Publicado como página web consultable desde el móvil (incluye comparador de margen por canal):
+  **https://claude.ai/artifact/SzKp2fQHfxLkRJx9CZ6c2Y**
 
 ## Pendiente / siguiente paso
 - [ ] Abrir cuenta **gratis en PLR.me** (10 créditos/mes = 1 ebook) y evaluar calidad real.
@@ -31,6 +33,7 @@
 - Comprar **PLR editable**, no MRR (el MRR se revende idéntico → saturación y guerra de precios).
 - La ventaja competitiva es **traducir y adaptar EN→ES**: 6.315 ebooks PLR en inglés vs ~27 en español.
 - Canal inicial **Payhip**, no KDP ni Etsy (ambos rechazan contenido PLR poco diferenciado).
+- El artifact se actualiza pasando su URL como `url` desde cualquier sesión; sin `url` se crea otro distinto.
 
 ---
 ### Plantilla para la próxima sesión
