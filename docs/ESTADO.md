@@ -20,7 +20,7 @@ Regla: cada chat toca SOLO su carpeta. `CLAUDE.md` y `docs/ESTADO.md` son comune
 - `ebook-propio/BRIEF.md` y `reventa-plr/BRIEF.md`: briefs de cada vía.
 
 ## Pendiente / siguiente paso
-- [ ] **Vía 1**: responder las 3 preguntas de `ebook-propio/BRIEF.md` (definir nicho)
+- [ ] **Vía 1**: validar indice del PLAN-02 y empezar a escribir (Fase B)
 - [ ] **Vía 2**: abrir chat nuevo y arrancar por `reventa-plr/BRIEF.md`
 - [ ] Cambiar la rama por defecto a `main` en GitHub (Settings → General)
 
@@ -28,3 +28,9 @@ Regla: cada chat toca SOLO su carpeta. `CLAUDE.md` y `docs/ESTADO.md` son comune
 - Sincronización entre equipos vía GitHub, no conexión directa PC↔PC.
 - Un solo repo y una sola rama (`main`); la separación es por carpetas, no por ramas.
 - Plataforma de venta tentativa: Payhip (gratis, sin mensualidad).
+
+## Actualización 2026-09-16 (vía 1)
+- Nicho definido: **inspección QA/QC de soldadura y pintura** (autor es inspector QA/QC).
+- Creados 3 planes completos en `ebook-propio/planes/`. Se ejecutan en serie: **02 activo**, luego 01, luego 03.
+- `ebook-propio/ROADMAP.md`: cartera, fases comunes e infraestructura.
+- **Restricción legal**: prohibido copiar normas (AWS/ASME/ISO/API/AMPP) o material confidencial del empleador. Se cita y se explica con palabras propias.

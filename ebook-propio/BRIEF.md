@@ -1,31 +1,28 @@
-# Ebook propio — Brief (paso 1: nicho)
+# Ebook propio — Brief
 
-> Chat asignado: **Opción 1 — ebook propio**. (La opción 2, reventa/PLR, va en otro chat y otra carpeta.)
+> Chat asignado: **Opción 1 — ebook propio**. (La opción 2, reventa/PLR, va en `reventa-plr/` y en OTRO chat.)
 
-## Responde estas 3 preguntas
-1. **¿Qué sabes hacer que a otros les cueste?**
-   (trabajo, oficio, hobby, algo que la gente te pide ayuda)
-   → 
+## Perfil del autor
+Inspector QA/QC de soldadura y pintura. Lectura de planos. Alta motivación.
 
-2. **¿A quién le podrías enseñar eso?**
-   (edad aprox., qué hace, qué problema tiene)
-   → 
+## Nicho elegido
+**Calidad industrial / inspección QA/QC en español.** Público: técnicos e inspectores de LatAm y España en minería, petróleo y gas, construcción, montaje industrial y naval.
 
-3. **¿Dónde eres más activo o te sientes cómodo publicando?**
-   (TikTok / Instagram / Facebook / YouTube / ninguno)
-   → 
+## Cartera (ver `ROADMAP.md`)
+- **02 — Manual práctico del inspector de soldadura y pintura** → `planes/PLAN-02-manual-inspector.md` — **ACTIVO**
+- 01 — De soldador/ayudante a inspector QA/QC → `planes/PLAN-01-de-soldador-a-inspector.md` — backlog
+- 03 — Lectura de planos e isométricos → `planes/PLAN-03-lectura-de-planos.md` — backlog
 
 ## Decidido
-- Tema:
-- Público:
-- Promesa del ebook (1 frase: "te ayuda a ___ en ___"):
-- Precio tentativo:
-- Plataforma de venta: Payhip (por definir)
+- Tema: inspección QA/QC (soldadura + pintura)
+- Público: inspector junior / técnico que ya trabaja pero no sabe documentar
+- Promesa: "Inspecciona, detecta y documenta como un inspector con años de terreno — desde tu primer turno"
+- Precio tentativo: USD 27 (ebook) / USD 47 (ebook + plantillas)
+- Plataforma: Payhip
+- Redes: todas (el contenido de terreno funciona muy bien en video corto)
 
-## Siguientes pasos
-- [ ] Responder las 3 preguntas
-- [ ] Elegir nicho y promesa
-- [ ] Índice del ebook
-- [ ] Escribir capítulos
-- [ ] Portada + PDF
-- [ ] Subir a Payhip y publicar
+## Restricción legal permanente
+No se copia texto, tablas ni figuras de normas (AWS, ASME, ISO, API, AMPP/SSPC). Se cita y se explica con palabras propias. Nada confidencial del empleador: ni planos, ni fotos identificables, ni nombres de proyectos. Detalle en `ROADMAP.md`.
+
+## Siguiente paso
+- [ ] Validar el índice de 12 capítulos del PLAN-02 y empezar Fase B (escritura)
