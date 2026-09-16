@@ -35,11 +35,11 @@
 
 ## 4. Plan de trabajo por fases
 **Fase A — Cerrar el índice** (1 sesión)
-- [ ] Validar/ajustar los 12 capítulos
-- [ ] Definir extensión objetivo (60–100 páginas)
+- [x] Validar/ajustar los 12 capítulos
+- [x] Definir extensión objetivo (80–100 páginas)
 
 **Fase B — Escritura** (1 capítulo por sesión)
-- [ ] Caps. 1–3 (contexto y documentos)
+- [x] Cap. 1 escrito · [ ] Caps. 2–3 (contexto y documentos)
 - [ ] Caps. 4–7 (soldadura)
 - [ ] Cap. 8 (pintura)
 - [ ] Caps. 9–10 (documentación)

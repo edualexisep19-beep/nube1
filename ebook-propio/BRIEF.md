@@ -25,4 +25,5 @@ Inspector QA/QC de soldadura y pintura. Lectura de planos. Alta motivación.
 No se copia texto, tablas ni figuras de normas (AWS, ASME, ISO, API, AMPP/SSPC). Se cita y se explica con palabras propias. Nada confidencial del empleador: ni planos, ni fotos identificables, ni nombres de proyectos. Detalle en `ROADMAP.md`.
 
 ## Siguiente paso
-- [ ] Validar el índice de 12 capítulos del PLAN-02 y empezar Fase B (escritura)
+- [x] Índice validado · [x] Capítulo 1 escrito
+- [ ] Escribir capítulo 2: los documentos

@@ -1,36 +1,45 @@
-# ESTADO — Memoria compartida entre PC casa y PC trabajo
+# ESTADO — Memoria compartida
 
-> Lee esto al empezar. Actualízalo al terminar. Siempre push.
+> Lee esto al empezar cualquier chat. Actualízalo al terminar. Siempre `git push`.
 
-## Proyecto
+**Última actualización**: 2026-09-16 · PC trabajo (Claude Code web) · rama `main`
+
+---
+
+## 1. El proyecto
 Vender ebooks. Dos vías en paralelo, en **chats separados**, mismo repo y misma rama `main`:
-- **Vía 1 — ebook propio** → carpeta `ebook-propio/`
-- **Vía 2 — reventa / PLR** → carpeta `reventa-plr/`
 
-Regla: cada chat toca SOLO su carpeta. `CLAUDE.md` y `docs/ESTADO.md` son comunes a ambos.
+| Vía | Qué es | Carpeta | Chat |
+|-----|--------|---------|------|
+| 1 | Ebook propio (nicho QA/QC) | `ebook-propio/` | Chat A |
+| 2 | Reventa / PLR | `reventa-plr/` | Chat B |
 
-## Última sesión
-- **Fecha**: 2026-09-16
-- **Equipo**: PC trabajo (Claude Code web)
-- **Rama**: main
+**Regla**: cada chat toca SOLO su carpeta. `CLAUDE.md` y `docs/ESTADO.md` son comunes.
 
-## Qué se hizo
-- `CLAUDE.md`: reglas de estilo + protocolo de sincronización entre los 2 PCs.
-- `main` creada como rama principal.
-- `ebook-propio/BRIEF.md` y `reventa-plr/BRIEF.md`: briefs de cada vía.
+---
 
-## Pendiente / siguiente paso
-- [ ] **Vía 1**: validar indice del PLAN-02 y empezar a escribir (Fase B)
-- [ ] **Vía 2**: abrir chat nuevo y arrancar por `reventa-plr/BRIEF.md`
+## 2. Dónde vamos
+
+### Vía 1 — Ebook propio ▸ EN MARCHA
+- **Nicho**: inspección QA/QC de soldadura y pintura. El autor es inspector QA/QC.
+- **Producto activo**: *Manual práctico del inspector de soldadura y pintura* (PLAN-02).
+- **Avance**: índice validado (12 caps) + front matter + **capítulo 1 escrito**.
+- **Siguiente**: escribir capítulo 2 (los documentos).
+- En backlog, con plan completo: PLAN-01 (de soldador a inspector) y PLAN-03 (lectura de planos).
+
+### Vía 2 — Reventa / PLR ▸ SIN EMPEZAR
+- **Siguiente**: abrir chat nuevo y arrancar por `reventa-plr/BRIEF.md`.
+
+### Infraestructura ▸ PENDIENTE
 - [ ] Cambiar la rama por defecto a `main` en GitHub (Settings → General)
+- [ ] Crear cuenta en Payhip
+- [ ] Crear perfil público en redes (no personal)
 
-## Decisiones tomadas
-- Sincronización entre equipos vía GitHub, no conexión directa PC↔PC.
-- Un solo repo y una sola rama (`main`); la separación es por carpetas, no por ramas.
-- Plataforma de venta tentativa: Payhip (gratis, sin mensualidad).
+---
 
-## Actualización 2026-09-16 (vía 1)
-- Nicho definido: **inspección QA/QC de soldadura y pintura** (autor es inspector QA/QC).
-- Creados 3 planes completos en `ebook-propio/planes/`. Se ejecutan en serie: **02 activo**, luego 01, luego 03.
-- `ebook-propio/ROADMAP.md`: cartera, fases comunes e infraestructura.
-- **Restricción legal**: prohibido copiar normas (AWS/ASME/ISO/API/AMPP) o material confidencial del empleador. Se cita y se explica con palabras propias.
+## 3. Decisiones tomadas (no volver a discutir)
+1. Sincronización entre PC casa y PC trabajo **vía GitHub**. No hay conexión directa PC↔PC.
+2. **Un repo, una rama (`main`)**. La separación es por carpetas, no por ramas.
+3. Plataforma de venta: **Payhip** (gratis, sin mensualidad, entrega automática).
+4. Los 3 ebooks se ejecutan **en serie** (02 → 01 → 03) y al final se venden como pack.
+5. **Restricción legal permanente**: prohibido copiar texto, tablas o figuras de normas (AWS, ASME, ISO, API, AMPP/SSPC) y prohibido usar material confidencial del empleador. Se cita la cláusula y se explica con palabras propias. Detalle en `ebook-propio/ROADMAP.md`.
