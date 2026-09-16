@@ -14,6 +14,9 @@ Producto: ______________________  Fuente: ______________________  Fecha: _______
 - [ ] ¿Prohibido venderlo en Amazon KDP / marketplaces concretos? → ______
 - [ ] ¿Puedo transferir derechos de reventa al comprador (MRR)? → sí / no
 - [ ] ¿Prohibido subirlo a sitios de subastas/torrent/gratis? → sí / no
+- [ ] **¿Se permite TRADUCIR a otro idioma?** → sí / no / no lo dice
+      Si no lo dice: preguntar al vendedor y guardar la respuesta por escrito.
+      La traducción es obra derivada: sin permiso, no se hace.
 
 ## 3. Contenido
 - [ ] Eliminado todo nombre, web, email y enlace del autor original.
@@ -26,5 +29,6 @@ Producto: ______________________  Fuente: ______________________  Fecha: _______
 - [ ] Disclaimer añadido (contenido informativo, sin garantía de resultados).
 - [ ] Página de copyright con **mi** nombre/marca y año.
 - [ ] Política de reembolso de la plataforma revisada.
+- [ ] Plataforma compatible: KDP y Etsy rechazan contenido PLR poco diferenciado (ver `ANALISIS.md` §5).
 
 **Si algún punto del bloque 1 falla → NO se publica.**

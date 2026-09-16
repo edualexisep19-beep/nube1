@@ -12,11 +12,15 @@
 - Documentos: `README.md`, `PLAN.md` (5 fases), `fuentes-plr.md`, `checklist-licencia.md`, `canales-venta.md`.
 - Plantillas: ficha de producto, descripción de venta, secuencia de email.
 - Scaffold `productos/_plantilla/` para cada ebook en curso.
+- **`ANALISIS.md`**: análisis de mercado con datos verificados (proveedores y precios reales,
+  políticas de KDP/Etsy/Payhip/Gumroad, nichos, números de arranque).
 
 ## Pendiente / siguiente paso
-- [ ] Elegir nicho (Fase 1 de `reventa-plr/PLAN.md`) y anotar 3 competidores.
-- [ ] Comprar el primer paquete PLR y guardar la licencia.
+- [ ] Abrir cuenta **gratis en PLR.me** (10 créditos/mes = 1 ebook) y evaluar calidad real.
+- [ ] Elegir nicho: finanzas personales localizadas o IA para una profesión concreta.
+- [ ] Verificar en la licencia el **permiso de traducción** antes de traducir nada.
 - [ ] Rellenar `checklist-licencia.md` antes de publicar nada.
+- [ ] Abrir tienda en **Payhip** (5%, gestiona IVA UE).
 - [ ] Vía 1 (`ebook-propio/`) sin empezar — se trabaja en otro chat.
 
 ## Decisiones tomadas
@@ -24,6 +28,9 @@
 - `CLAUDE.md` se carga automáticamente en Claude Code (web y local).
 - Dos vías separadas por carpeta: `ebook-propio/` (vía 1) y `reventa-plr/` (vía 2). Cada chat toca solo la suya.
 - Ningún PLR se publica sin el checklist de licencia completo.
+- Comprar **PLR editable**, no MRR (el MRR se revende idéntico → saturación y guerra de precios).
+- La ventaja competitiva es **traducir y adaptar EN→ES**: 6.315 ebooks PLR en inglés vs ~27 en español.
+- Canal inicial **Payhip**, no KDP ni Etsy (ambos rechazan contenido PLR poco diferenciado).
 
 ---
 ### Plantilla para la próxima sesión

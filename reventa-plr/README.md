@@ -6,6 +6,7 @@ Todo lo de esta vía vive aquí. **No tocar `ebook-propio/`.**
 ## Estructura
 | Ruta | Para qué |
 |---|---|
+| `ANALISIS.md` | **Análisis de mercado: qué revender, proveedores, plataformas, nichos** |
 | `PLAN.md` | Pasos del 0 a la primera venta |
 | `fuentes-plr.md` | Dónde comprar PLR y qué mirar |
 | `checklist-licencia.md` | Verificación legal ANTES de revender |
@@ -13,5 +14,7 @@ Todo lo de esta vía vive aquí. **No tocar `ebook-propio/`.**
 | `plantillas/` | Ficha de producto, descripción de venta, email |
 | `productos/` | Una carpeta por ebook en curso |
 
-## Regla base
-Ningún PLR se publica sin pasar `checklist-licencia.md` completo.
+## Reglas base
+1. Ningún PLR se publica sin pasar `checklist-licencia.md` completo.
+2. Comprar solo **PLR editable (.docx)**, nunca MRR: el MRR lo revende todo el mundo idéntico.
+3. Traducir EN→ES solo con permiso explícito en la licencia.

@@ -1,29 +1,35 @@
-# Fuentes de PLR
+# Fuentes de PLR — referencia rápida
 
-> Verificar precios y condiciones al comprar: cambian a menudo.
+> Precios verificados 2026-09-16. Reconfirmar antes de pagar. Análisis completo en `ANALISIS.md`.
 
-## Marketplaces de PLR
-| Fuente | Modelo | Notas |
+## Inglés
+| Fuente | Precio | Qué incluye |
 |---|---|---|
-| PLR.me | Suscripción de créditos | Calidad alta, nicho coaching/salud/desarrollo personal. Editable. |
-| IDPLR | Suscripción anual | Catálogo enorme y desigual. Filtrar por fecha de subida. |
-| BigProductStore | Pago por paquete + membresía | Bundles grandes, calidad media. |
-| Master-Resale-Rights.com | Pago por producto | Catálogo antiguo; revisar que no esté caducado. |
-| Buy Quality PLR | Pago por producto | Fichas claras de qué licencia incluye. |
-| PLRDatabase / Free PLR | Gratis | Solo para practicar. Contenido muy reciclado. |
+| **IDPLR** | Gold 47 $/3 meses · 97 $/año · **lifetime 79 $** · cuenta gratis (200 productos) | 12.000+ productos, 6.315 ebooks, 200.000 artículos. Calidad desigual |
+| **PLR.me** | 47 $/mes o 397 $/año + créditos · pay-as-you-go 27 $ (10 créditos) · **gratis 10 créditos/mes** · ebook ≈ 10 créditos | Coaching, salud, desarrollo personal. Mejor calidad |
+| **BuyQualityPLR** | Pago único (~R250 ZAR/ebook) | Negocio, marketing, salud, finanzas, cocina |
+| PLR eBook Supplier · PLRProducts · SureFireWealth · BigProductStore | Pago único o membresía | Generalistas, segunda línea |
 
-## Alternativas
-- **Fiverr / Upwork**: encargar un ebook original con cesión total de derechos. Más caro, sin competencia.
-- **Dominio público** (Project Gutenberg, obras con copyright expirado): reedición legal y gratis, pero exige mucho trabajo editorial.
+## Español
+| Fuente | Precio | Qué incluye |
+|---|---|---|
+| **PLRinSpanish.com** | 2,99–9,99 $/título | Solo ~27 títulos: IA, emprendimiento, ciberseguridad, salud |
+| **Hotmart** (packs PLR) | Pago único | Packs de miles de ebooks. Volumen sí, calidad no |
+| MasterResellRights.es · PLR Academy Hub | Pago único / membresía | MRR en español, nicho marketing. Saturado |
 
-## Qué mirar antes de pagar
-- [ ] Formato **editable** (.docx / .doc), no solo PDF.
+> La oferta en español es residual (27 títulos vs 6.315). **Traducir EN→ES es la ventaja competitiva de esta vía** — ver `ANALISIS.md` §4.
+
+## Alternativas sin PLR
+- **Ghostwriter (Fiverr/Upwork)** con cesión total: 150–800 €, exclusividad real.
+- **Dominio público** (Project Gutenberg): gratis y legal, pero exige trabajo editorial.
+
+## Qué comprobar antes de pagar
+- [ ] Formato **editable** (.docx), no solo PDF.
 - [ ] Licencia **escrita e incluida** en la descarga.
-- [ ] Fecha de creación del contenido (si es de hace 5+ años en temas de IA/marketing, descartar).
-- [ ] Cuántos compradores lo tienen (paquetes "vendidos 10.000 veces" = saturados).
-- [ ] Idioma: si es en inglés y vendes en español, presupuestar traducción + revisión.
+- [ ] **Permiso explícito para traducir** (si vas a traducir).
+- [ ] Fecha del contenido (si es de hace 5+ años en IA/marketing, descartar).
+- [ ] Cuántas veces se ha vendido el paquete (bundles masivos = saturado).
 
 ## Señales de descarte
-- Texto claramente generado por IA sin revisar (repetitivo, sin datos).
-- Licencia que dice "personal use only" o "no resale rights".
-- Vendedor sin política de reembolso ni contacto.
+- Texto generado por IA sin revisar. Licencia "personal use only". Vendedor sin contacto ni reembolso.
+- Bundles de "millones de productos" a 1–7 $: invendibles, compites contra su propio precio.
